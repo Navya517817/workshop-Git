@@ -1,3 +1,3 @@
+print("I am navya")
 
-print("I am manvitha")
 
